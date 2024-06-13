@@ -12,5 +12,8 @@
     "build": "npx thirdweb@latest build",
     "deploy": "npx thirdweb@latest deploy",
     "test": "npx hardhat@latest test"
+  },
+  "dependencies": {
+    "@thirdweb-dev/contracts": "^3.15.0"
   }
 }
